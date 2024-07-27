@@ -1,0 +1,14 @@
+.clr {
+    color: red;
+    font-size: 40px;
+}
+
+.clr::after {
+    content: "is";
+    color: green;
+}
+
+.clr::before {
+    content: "My";
+    color: blue;
+}

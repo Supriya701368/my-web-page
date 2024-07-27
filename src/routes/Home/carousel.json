@@ -1,0 +1,26 @@
+[
+    {
+        "path": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+        "altText": "First slide",
+        "title": "First slide label",
+        "subTitle": "Nulla vitae elit libero, a pharetra augue mollis interdum."
+    },
+    {
+        "path": "https://c.ndtvimg.com/2024-07/sdld7g7_pm-modi-vladimir-putin-twitter_625x300_09_July_24.jpeg",
+        "altText": "Secound slide",
+        "title": "Second slide label",
+        "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "path": "https://st2.zoom.us/static/6.3.23157/image/new/topNav/Zoom_logo.svg",
+        "altText": "third slide",
+        "title": "Third slide label",
+        "subTitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+    },
+    {
+        "path": "https://st2.zoom.us/static/6.3.23157/image/new/topNav/Zoom_logo.svg",
+        "altText": "fourth slide",
+        "title": "fourth slide label",
+        "subTitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+    }
+]

@@ -1,0 +1,17 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: var("background");
+    text-align: right;
+    line-height: 40px;
+}
+
+.menu>li {
+    display: inline;
+    margin-right: 20px;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
